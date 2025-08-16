@@ -7,7 +7,7 @@ const brands = [
     logo: "/empresas/ou.jpg",
     site: "https://www.ou.com.br/",
   },
-  // ...outras empresas
+  
   {
     name: "Panelux",
     logo: "/empresas/panelux.jpg",
@@ -29,6 +29,25 @@ const brands = [
     logo: "/empresas/plasvale.jpg",
     site: "https://www.plasvale.com.br/",
   },
+
+  {
+    name: "Aeroflex",
+    logo: "/empresas/aeroflex.png",
+    site: "https://www.aeroflex.ind.br/",
+  },
+
+  {
+    name: "Invicta",
+    logo: "/empresas/invicta.svg",
+    site: "https://www.invictaonline.com.br/",
+  },
+
+  {
+    name: "Oxford",
+    logo: "/empresas/oxford.png",
+    site: "https://www.oxfordporcelanas.com.br/",
+  },
+  
   {
     name: "Tropical Aromas",
     logo: "/empresas/tropical_aromas.jpg",
